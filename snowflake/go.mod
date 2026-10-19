@@ -1,4 +1,4 @@
-module snowflake
+module github.com/KevinDZ/common/snowflake
 
 go 1.26.3
 
