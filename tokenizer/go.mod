@@ -1,4 +1,4 @@
-module tokenizer
+module github.com/KevinDZ/common/tokenizer
 
 go 1.26.3
 
